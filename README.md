@@ -8,5 +8,5 @@ as a brief description, used technology stack and links when available.
 
 To view this page in your browser, you can:
 * visit the instance hosted at
-[dmraovic.github.io](https://skomaromi.github.io/); or
+[dmraovic.github.io](https://dmraovic.github.io/); or
 * clone this repository and view the local copy from your computer.
