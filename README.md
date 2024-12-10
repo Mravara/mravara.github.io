@@ -1,4 +1,4 @@
-# dmraovic.github.io
+# mravara.github.io
 
 Personal GitHub page serving as a portfolio showcasing projects which were
 developed recently. For each project a screenshot or logo is provided, as well
@@ -8,5 +8,5 @@ as a brief description, used technology stack and links when available.
 
 To view this page in your browser, you can:
 * visit the instance hosted at
-[dmraovic.github.io](https://dmraovic.github.io/); or
+[mravara.github.io](https://mravara.github.io/); or
 * clone this repository and view the local copy from your computer.
