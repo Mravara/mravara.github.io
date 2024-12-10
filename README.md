@@ -2,8 +2,7 @@
 
 Personal GitHub page serving as a portfolio showcasing projects which were
 developed recently. For each project a screenshot or logo is provided, as well
-as a brief description, used technology stack and links to associated Git
-repositories when available.
+as a brief description, used technology stack and links when available.
 
 ## Getting started
 
