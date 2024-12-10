@@ -1,4 +1,4 @@
-window.onload = main;
+document.addEventListener('DOMContentLoaded', main);
 
 function main() {
     // initialize Masonry
